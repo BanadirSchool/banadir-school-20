@@ -32,8 +32,8 @@
                 </tr>
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td>Lama Hayo  
-                        <td> Z
+                    <td>100  
+                        <td> A+
                     </td>
                     <td> COMPUTER
                     </td>
